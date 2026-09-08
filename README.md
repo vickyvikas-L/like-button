@@ -2,7 +2,7 @@
 
 A simple and interactive **Like Button** project created using **HTML, CSS, and JavaScript**. The project allows users to click a button to like or unlike an item with a visual change.
 
-## ✨ Features
+## ✨ Feature
 
 * ❤️ Like and unlike functionality
 * 🔢 Like count display
